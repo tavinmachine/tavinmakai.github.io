@@ -11,7 +11,7 @@
   --accent: #2F5D50;
   --overlay: rgba(12, 12, 12, 0.55);
 
-  --sans: "Special+Elite", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --sans: "Special Elite", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --gutter: clamp(1.25rem, 5vw, 3.5rem);
 }
 
