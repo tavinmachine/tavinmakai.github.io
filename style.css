@@ -267,15 +267,3 @@ a { color: var(--ink); }
   .slimbar-nav a:first-child { border-top: none; }
 }
 
-/* DEMO bubble for Sascha, remove after */
-.demo-bubble {
-  display: inline-block;
-  margin: 18px 0 0 18px;
-  padding: 10px 18px;
-  background: #fff;
-  border: 2px solid #1a1a1a;
-  border-radius: 20px 20px 20px 4px;
-  font-family: Karla, sans-serif;
-  font-size: 16px;
-  box-shadow: 3px 3px 0 #1a1a1a;
-}
